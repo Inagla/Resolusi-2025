@@ -2,4 +2,5 @@ Rencana Projek Kedepannya
 
 -Git dan Github
 -Menambahkan fitur rating
+-Meningkatkan fitur akun, login dan sign up
 -Hosting
