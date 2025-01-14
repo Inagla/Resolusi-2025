@@ -1,5 +1,5 @@
 Rencana Projek Kedepannya
 
 -Git dan Github
--Fitur
+-Menambahkan fitur rating
 -Hosting
